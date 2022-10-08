@@ -36,6 +36,7 @@ hgroup {
   float: left;
   font-size: 30px;
   margin: 5px 5px 5px 5px;
+  font-family: 'Lato' , sans-serif;
 }
 
 aside {
@@ -64,6 +65,7 @@ aside a {
   font-size: 1.20em;
   color: #fff;
   border-bottom: 1px solid #414141;
+  font-family: 'Lato' , sans-serif;
 }
 
 .toggle-wrap {
