@@ -2,9 +2,11 @@
   margin: 0;
   padding: 0;
 }
-.container {
-height: 100%;
+
+html, body, .container {
+  height: 100%;
 }
+
 .tapbar {
   margin: 0;
   padding: 0;
