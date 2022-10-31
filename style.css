@@ -73,6 +73,20 @@ header.header {
   }
 }
 
+.scroll {
+  animation: slide-in .7s .5s ease both;
+}
+
+@keyframes slide-in { 
+from { 
+  opacity: 0;
+  transform: translateY(2rem); 
+  }
+to { 
+  opacity: 1;
+  transform: translateY(0); 
+  }
+}
 .content {
   height: none;
   position: relative;
