@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
 }
+.container {
+  min-height: 100%;
+}
 .tapbar {
   margin: 0;
   padding: 0;
