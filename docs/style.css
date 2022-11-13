@@ -3,6 +3,13 @@
   padding: 0;
 }
 
+body {
+	line-height: 1.5;
+	min-height: 100vh;
+	font-family: "Be Vietnam Pro", sans-serif;
+	color: #282a32;
+}
+
 /* Header
 -----------------------*/
 header.header {
